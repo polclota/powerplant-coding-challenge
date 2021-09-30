@@ -1,0 +1,2 @@
+@curl -i -H "Content-Type: application/json" -X POST http://127.0.0.1:8888/productionplan -d @example_payloads/payload2.json
+@REM @curl -i -H "Content-Type: application/json" -X POST http://127.0.0.1:8888/productionplan -d "{\"userId\":1, \"username\": \"fizz bizz\"}"
