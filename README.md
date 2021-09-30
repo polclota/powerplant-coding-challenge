@@ -15,7 +15,7 @@ Keep in mind that depending on what version of Python you have installed you wil
 
 ## Running!
 
-Execute, either runme.bat for Windows or ./runme.sh for Linux, tou may need to set file attributes to 777. 
+Execute, either runme.bat for Windows or ./runme.sh for Linux, you may need to set file attributes to 777. 
 
 ## Testing!
 
