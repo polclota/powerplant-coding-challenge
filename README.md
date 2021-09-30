@@ -2,6 +2,8 @@
 
 ## Welcome!
 
+That's my approach to the challenge.
+
 ## Installation!
 
 Execute either install.bat for Windows or install.sh for Linux.
